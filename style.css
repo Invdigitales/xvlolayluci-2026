@@ -12,16 +12,7 @@
 .portada{
   width: 100%;
 }
-  .audio{
-    width: 35%;
-    height: 20px;
-    margin-left: 32%;
-    background-color:  #a0a0a0;
-    color: #646464bd;
-    margin-top: 5%;
-    
-}
-
+ 
 .parrafo1{
  width: 38%;
  display: block;
@@ -72,9 +63,9 @@
     width: 35%;
     height: 20px;
     margin-left: 32%;
-    background-color:  #a0a0a0;
+    background-color:  #f1d1f6;
     color: #646464bd;
-    margin-top: 5%;
+    margin-top: -15%;
     
 }
 .fraseinicio{
@@ -174,7 +165,7 @@ margin-top: -17%;
 .calendario{
   width: 80%;
   margin-left: 10%;
-  margin-top: 60%;
+  margin-top: 17%;
 }
 
 .gifuno {
@@ -232,16 +223,7 @@ margin-top: -17%;
    background-color: #d49c81;
    
 }
-.trivia{
-  text-align: center;
- font-family: "Playfair Display", serif;
-   font-size: 28px;
-   color: #ffffff;
-   font-weight: 500;
-   margin-top: 18%;
-   background-color: #d49c81;
-   
-}
+
 .asistencia{
   text-align: center;
  font-family: "Playfair Display", serif;
@@ -291,9 +273,11 @@ margin-left: -3% ;
   margin: 0 auto;
 }
 .bola{
-  width: 15%;
-  margin-left: 39%;
-  margin-top: 5%;
+    width: 16%;
+ display: block;
+  margin: 0 auto;
+  position: relative;
+  top: -40px; 
 }
 .teesperamos{
   width: 100%;
@@ -598,7 +582,14 @@ margin-left: -3% ;
   margin: 0 auto;
 
 }
-
+.musica{
+ text-align: center;
+  font-family: "Allura", cursive;
+   font-size: 23px;
+   color: #242424;
+   font-weight: 500; 
+   margin-top: 60%;
+}
 .parrafo6{
   text-align: center;
  font-family: "Playfair Display", serif;
@@ -685,10 +676,10 @@ margin-left: -3% ;
  .Play{
   
     font-family: 'Julius Sans One', sans-serif;
-    font-size: 12px;
+    font-size: 15px;
     text-align: center;
-    margin-top: 10%;
-    color: #5b675c;
+    margin-top: -10%;
+    color: #424242;
     font-weight: 700;
    
    }
@@ -709,14 +700,7 @@ margin-left: -3% ;
    font-weight: 500; 
    margin-top: 8%;
 }
-.musica{
- text-align: center;
-  font-family: "Allura", cursive;
-   font-size: 23px;
-   color: #242424;
-   font-weight: 500; 
-   margin-top: -10%;
-}
+
 .faltan{
   text-align: center;
  font-family: "Playfair Display", serif;
